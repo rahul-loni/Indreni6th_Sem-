@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019377955183",
+    "project_id": "demoo-ce308",
+    "storage_bucket": "demoo-ce308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019377955183:android:d406fc02a0026dbf1ef89a",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019377955183-8ab075lsd2qo70vfgs1estgt49ku7e3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9OW706w5Z9_u5NCSoLyyQQRhERVIy2a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019377955183-8ab075lsd2qo70vfgs1estgt49ku7e3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
